@@ -2,7 +2,7 @@
 
 
 
- #searchInput {display: block;
+ #searchInput {display: inline;
     border-radius: 20px;
     padding: 10px;
     border: 1px solid #ced4da;
