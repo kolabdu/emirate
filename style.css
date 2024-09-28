@@ -2,7 +2,7 @@
 
 
 
- .contain text {display: block;
+ #searchInput {display: block;
     border-radius: 20px;
     padding: 10px;
     border: 1px solid #ced4da;
